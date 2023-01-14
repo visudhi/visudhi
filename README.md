@@ -2,7 +2,7 @@
 - 👀 I’m interested in DSA,DP,web-developement,spring-boot.
 - 🌱 I’m currently learning javascript,DSA,DP.
 - 💞️ I’m looking to collaborate on open-source projects,development work or any  projects in java or spring boot.
-- 📫 How to reach me. Mail me on pleasantnow@gmail.com.
+- 📫 How to reach me. Mail me on visudhicoder@gmail.com.
 
 <!---
 visudhi/visudhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
