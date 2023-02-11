@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @visudhi
-- 👀 I’m interested in DSA,DP,web-developement,spring-boot.
+- 👀 I’m interested in DSA,DP,web-developement,JavaScript,spring-boot.
 - 🌱 I’m currently learning javascript,DSA,DP.
 - 💞️ I’m looking to collaborate on open-source projects,development work or any  projects in java or spring boot.
 - 📫 If you would like to connect with me kindly get in touch with me on visudhicoder@gmail.com.
